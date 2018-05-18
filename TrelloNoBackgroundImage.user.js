@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name Trello No Background Image
 // @description Remove background image on Trello
+// @version 1.0.0
 // @author Christian Frisson
 // @namespace http://github.com/ChristianFrisson/ViolentmonkeyUserScripts/blob/master/TrelloNoBackgroundImage.user.js
 // @include *trello.com*

@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name Authorea Optimized TOC
 // @description Optimize the table of contents in Authorea
+// @version 1.0.0
 // @author Christian Frisson
 // @namespace http://github.com/ChristianFrisson/ViolentmonkeyUserScripts/blob/master/AuthoreaOptimizedTOC.user.js
 // @include *authorea.com*

@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name Authorea Optimized Abstract
 // @description Optimize the abstract in authorea
+// @version 1.0.0
 // @author Christian Frisson
 // @namespace http://github.com/ChristianFrisson/ViolentmonkeyUserScripts/blob/master/AuthoreaOptimizedAbstract.user.js
 // @include *authorea.com*

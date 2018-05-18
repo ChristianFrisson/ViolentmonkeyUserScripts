@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name Trello No Background Colors
 // @description Remove background colors on Trello
+// @version 1.0.0
 // @author Christian Frisson
 // @namespace http://github.com/ChristianFrisson/ViolentmonkeyUserScripts/blob/master/TrelloNoBackgroundColors.user.js
 // @include *trello.com*
