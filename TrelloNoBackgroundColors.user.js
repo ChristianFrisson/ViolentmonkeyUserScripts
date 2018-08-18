@@ -42,14 +42,13 @@ GM_addStyle ( `
 }
 
 .header-logo-default {
-  //background-image: none!important;
+  /* background-image: none!important; */
   color: black;
 }
 
 .header-btn.new-notifications {
   background: white;
 }
-
 `).then(style=> {
   console.log('Trello No Background Colors Violentmonkey UserScript active:', style);
 }

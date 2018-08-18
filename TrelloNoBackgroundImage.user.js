@@ -9,10 +9,10 @@
 // @license MIT License; https://github.com/ChristianFrisson/ViolentmonkeyUserScripts/blob/master/LICENSE
 // ==/UserScript==
 
-GM_addStyle ( ` .body-board-view {
+GM_addStyle ( `
+ .body-board-view {
   background-image: none !important;
 }
-
 `).then(style=> {
   console.log('Trello No Background Image Violentmonkey UserScript active:', style);
 }
